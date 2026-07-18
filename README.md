@@ -1,5 +1,28 @@
-# 💫 About Me:
-Hi, I'm Mayuresh 👋<br><br>🎓 BCA Data Science Student at Sri Balaji University Pune<br><br>I'm passionate about Artificial Intelligence, Data Science, Machine Learning, and Generative AI. I enjoy building AI-powered applications, exploring new technologies, and solving real-world problems through software.<br><br>🚀 Currently Learning<br><br>- Python<br>- Machine Learning<br>- Power BI<br>- Generative AI<br>- Prompt Engineering<br><br>📌 Projects<br><br>- AI Project Assistant<br>- Full Stack Prompt Engineered Websites<br>- Data Analysis Projects using Power BI at University<br><br>🌱 Goals<br><br>- Build impactful AI applications<br>- Contribute to Open Source<br>- Pursue a Master's abroad<br>- Become an AI Product/Business Analyst<br><br>---<br><br>Thanks for visiting my profile!<br>
+## 💫 About Me
+
+Hi, I'm Mayuresh 👋
+
+🎓 BCA Data Science Student at Sri Balaji University, Pune
+
+Passionate about Artificial Intelligence, Data Science, Machine Learning, and Generative AI. I enjoy building AI-powered applications, exploring new technologies, and solving real-world problems through software.
+
+🚀 **Currently Learning**
+- Python
+- Machine Learning
+- Power BI
+- Generative AI
+- Prompt Engineering
+
+📌 **Projects**
+- AI Project Assistant
+- Full-Stack Prompt Engineered Websites
+- Data Analysis Projects using Power BI
+
+🌱 **Goals**
+- Build impactful AI applications
+- Contribute to Open Source
+- Pursue a Master's abroad
+- Become an AI Product/Business Analyst
 
 
 ## 🌐 Socials:
