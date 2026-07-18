@@ -1,39 +1,22 @@
 # Hi, I'm Mayuresh 👋
 
-🎓 BCA Data Science Student
+🎓 BCA Data Science Student at Sri Balaji University Pune
 
 I'm passionate about Artificial Intelligence, Data Science, Machine Learning, and Generative AI. I enjoy building AI-powered applications, exploring new technologies, and solving real-world problems through software.
 
 ## 🚀 Currently Learning
 
 - Python
-- SQL
 - Machine Learning
 - Power BI
-- React
 - Generative AI
 - Prompt Engineering
-
-## 🛠️ Tech Stack
-
-- Python
-- Java
-- SQL
-- PostgreSQL
-- HTML
-- CSS
-- JavaScript
-- React
-- Git
-- GitHub
-- Power BI
 
 ## 📌 Projects
 
 - AI Project Assistant
-- Student Performance Prediction
-- Boston Housing Price Prediction
-- Data Analysis Projects
+- Full Stack Prompt Engineered Websites
+- Data Analysis Projects using Power BI at University
 
 ## 🌱 Goals
 
