@@ -4,7 +4,7 @@ Hi, I'm Mayuresh 👋
 
 🎓 BCA Data Science Student at Sri Balaji University, Pune
 
-Passionate about Artificial Intelligence, Data Science, Machine Learning, and Generative AI. I enjoy building AI-powered applications, exploring new technologies, and solving real-world problems through software.
+Passionate about Artificial Intelligence, Data Science, Machine Learning, and Generative AI. I enjoy building AI-powered applications and solving real-world problems through software.
 
 🚀 **Currently Learning**
 - Python
