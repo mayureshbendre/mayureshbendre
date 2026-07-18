@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Mayuresh 👋
 
-<!--
-**mayureshbendre/mayureshbendre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Data Science Student
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Data Science, Machine Learning, and Generative AI. I enjoy building AI-powered applications, exploring new technologies, and solving real-world problems through software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python
+- SQL
+- Machine Learning
+- Power BI
+- React
+- Generative AI
+- Prompt Engineering
+
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- SQL
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+- Power BI
+
+## 📌 Projects
+
+- AI Project Assistant
+- Student Performance Prediction
+- Boston Housing Price Prediction
+- Data Analysis Projects
+
+## 🌱 Goals
+
+- Build impactful AI applications
+- Contribute to Open Source
+- Pursue a Master's abroad
+- Become an AI Product/Business Analyst
+
+---
+
+Thanks for visiting my profile!
